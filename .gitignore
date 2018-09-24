@@ -1,0 +1,11 @@
+node_modules
+
+.git
+
+config.json
+
+dist
+
+build
+
+build.js
